@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Humans",
+		"leaderName": "Earth",
+		"adjective": ["human"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "This is just a random civ I made",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You're cooked, bud.",
+		"attacked": "How fun! Can I play!",
+		"defeated": "WE WILL COME BACK ONE DAY!",
+		"introduction": "Whatever.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -27,12 +27,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+  		"cities": ["Tokyo", "Delhi", "Shanghai", "Jakarta", "Dhaka", "Cairo", "Sao Paulo", "Mexico City", "Beijing", "Mumbai", "Osaka", "Kinshasa", "Chongqing", "Karachi", "Lagos", "Istanbul", "Kolkata", "Manila", "Guangzhou", "Buenos Aires", "Lahore", "Seoul", "Tianjin", "Bangalore", "Rio de Janeiro", "Shenzhen", "New York City", "Moscow", "Chennai", "Bogota", "Jakarta", "Lima", "Hyderabad", "Bangkok", "Paris", "Luanda", "Nanjing", "Chengdu", "Ho Chi Minh City", "London", "Tehran", "Nagoya", "Xi-an", "Ahmedabad", "Kuala Lumpur", "Wuhan", "Dar es Salaam", "Surat", "Suzhou", "Hangzhou", "Baghdad", "Riyadh", "Foshan", "Dongguan", "Hong Kong", "Pune", "Haerbin", "Santiago", "Khartoum", "Madrid", "Johannesburg", "Toronto", "Dalian", "Belo Horizonte", "Qingdao", "Zhengzhou", "Abidjan", "Addis Ababa", "Singapore", "Jinan", "Nairobi", "Alexandria", "Yangon", "Chennai", "Kano", "Casablanca", "Los Angeles", "Cape Town", "Yokohama", "Berlin", "Busan", "Ningbo", "Taiyuan", "Hanoi", "Chittagong", "Changsha", "Wuxi", "Kabul", "Fukuoka", "Surabaya", "Rome", "Kyiv", "Guadalajara", "Izmir", "Baku", "Algiers", "Durban", "Curitiba", "Accra", "Kumasi", "Campinas", "Tashkent", "Taipei", "Changchun", "Hefei", "Dakar", "Faisalabad", "Port Harcourt", "Ibadan", "Shijiazhuang", "Kunming", "Montreal", "Barcelona", "Munich", "Milan", "Monterrey", "Harbin", "Chengdu", "Guiyang", "Nanning", "Fuzhou", "Xiamen", "Wenzhou", "Zibo", "Tangshan", "Urumqi", "Lanzhou", "Oran", "Douala", "Yaounde", "Antananarivo", "Brazzaville", "Mogadishu", "Omdurman", "Rawalpindi", "Multan", "Hyderabad (Pakistan)", "Gujranwala", "Peshawar", "Lucknow", "Kanpur", "Nagpur", "Indore", "Thane", "Bhopal", "Visakhapatnam", "Pimpri-Chinchwad", "Patna", "Vadodara", "Ghaziabad", "Ludhiana", "Coimbatore", "Agra", "Madurai", "Nashik", "Vijayawada", "Faridabad", "Meerut", "Rajkot", "Kalyan-Dombivli", "Varanasi", "Srinagar", "Aurangabad", "Dhanbad", "Amritsar", "Navi Mumbai", "Allahabad", "Ranchi", "Howrah", "Jabalpur", "Gwalior", "Jodhpur", "Raipur", "Kota", "Guwahati", "Chandigarh", "Solapur", "Hubli-Dharwad", "Bareilly", "Moradabad", "Mysore", "Gurgaon", "Aligarh", "Jalandhar", "Tiruchirappalli", "Bhubaneswar", "Salem", "Warangal", "Mira-Bhayandar", "Thiruvananthapuram"]
 	}
 ]
